@@ -5,14 +5,14 @@
     font-family: lato, sans-serif;
   }
   
-  .part-top {
+.part-top {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
   }
   
-  .part-top__matrix {
+.part-top__matrix {
     width: 100%;
   }
   
@@ -112,7 +112,7 @@
     width: 318px;
   }
   
-  /* Task list */
+   /* Task list */
   .main-element__list-item {
     overflow: hidden;
     padding: 20px 0;
