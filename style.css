@@ -152,21 +152,28 @@
   }
   
   /* Completed */
-  #completed-tasks .main-element__label {
+  #completed-tasks 
+  .main-element__label {
     text-decoration: line-through;
     color: #888;
   }
   
   /* Edit Task */
-  .main-element__list .main-element__list-item .main-element__input_text {
+  .main-element__list 
+  .main-element__list-item 
+  .main-element__input_text {
     display: none;
   }
   
-  .main-element__list .main-element__list-item.main-element__edit-mode .main-element__input_text {
+  .main-element__list 
+  .main-element__list-item.main-element__edit-mode 
+  .main-element__input_text {
     display: inline-block;
     width: 224px;
   }
   
-  .main-element__list .main-element__list-item.main-element__edit-mode .main-element__label {
+  .main-element__list 
+  .main-element__list-item.main-element__edit-mode 
+  .main-element__label {
     display: none;
   }
